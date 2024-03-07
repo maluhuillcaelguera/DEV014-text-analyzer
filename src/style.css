@@ -1,0 +1,78 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #00b894; /* Naranja llamativo */
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #ffcc80; /* Amarillo claro */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos de encabezado y pie de página */
+
+header {
+    font-family: 'Lato', sans-serif;
+    padding: 5px;
+    text-align: center;
+    color: #fff; /* Texto blanco */
+}
+
+footer {
+    padding: 15px;
+    text-align: center;
+    background-color:#55efc4; /* Rojo coral */
+    color: white;
+}
+
+/* Estilos de entrada de texto */
+
+textarea[name="user-input"] {
+    width: calc(100% - 20px); 
+    height: 150px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #ff4500; /* Naranja oscuro */
+    resize: none;
+}
+
+/* Estilos de botón */
+
+#reset-button {
+    margin: 20px auto;
+    padding: 10px;
+    width: 150px;
+    background-color: #20b2aa; /* Verde azulado */
+    color: rgb(247, 247, 247);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+}
+
+#reset-button:hover {
+    background-color: #00ced1; /* Azul turquesa */
+}
+
+/* Estilos de elementos de lista */
+
+.item {
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 200px;
+    display: inline-block;
+    margin-right: 10px;
+    flex-basis: 20%;
+    background-color: #9932cc; /* Violeta oscuro */
+    color: rgb(247, 247, 247);
+    border-radius: 10px;
+}
+
