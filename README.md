@@ -1,11 +1,11 @@
 ***
 
-## 1.¡Hola Bienvenidos al analizador de Texto![Texto del enlace](https://maluhuillcaelguera.github.io/DEV014-text-analyzer/src/)
+## 1.¡Hola Bienvenidos al analizador de Texto!
 
 * Este proyecto de Analizador de Texto es parte de un trabajo escolar diseñado para explorar el
-*  procesamiento de texto mediante herramientas informáticas básicas. El objetivo principal es
-*  proporcionar una herramienta simple pero efectiva para realizar operaciones básicas de análisis
-*   de texto.
+  procesamiento de texto mediante herramientas informáticas básicas. El objetivo principal es
+  proporcionar una herramienta simple pero efectiva para realizar operaciones básicas de análisis
+  de texto.
 
 En general, las aplicaciones de análisis de texto brindan información
 valiosa y métricas sobre los textos que pueden ayudar a las usuarias a
