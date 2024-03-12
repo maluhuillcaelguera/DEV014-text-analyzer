@@ -1,6 +1,6 @@
 ***
 
-## ¡Hola Bienvenidos al analizador de Texto!😊💫
+## ¡Hola Bienvenidos al Analizador de Texto!😊💫
 
 * Este proyecto de Analizador de Texto es parte de un trabajo diseñado para explorar el
   procesamiento de texto mediante herramientas informáticas básicas. El objetivo principal es
