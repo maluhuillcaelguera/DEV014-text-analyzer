@@ -43,6 +43,9 @@ clic en un botón.
 
 ## 3. Contribuciones
 
-Aunque este proyecto está diseñado para fines escolares, siempre se aprecian las contribuciones creativas. Si tienes ideas para mejorar el proyecto o deseas agregar nuevas características, compártelas con el profesor o el equipo de desarrollo del proyecto.
+Se aprecian las contribuciones creativas. Si tienes ideas para mejorar el proyecto o deseas agregar nuevas características, compártelas con el profesor o el equipo de desarrollo del proyecto.
+
+## Este proyecto fue desarrollado por [Malu Huillca Elguera].
+Si tienes alguna pregunta sobre el proyecto, puedes comunicarte con nosotros a través de [huillcaelgueramalu@gmail.com].
 
 ***
