@@ -2,7 +2,7 @@
 
 ## 1.¡Hola Bienvenidos al analizador de Texto!
 
-* Este proyecto de Analizador de Texto es parte de un trabajo escolar diseñado para explorar el
+* Este proyecto de Analizador de Texto es parte de un trabajo diseñado para explorar el
   procesamiento de texto mediante herramientas informáticas básicas. El objetivo principal es
   proporcionar una herramienta simple pero efectiva para realizar operaciones básicas de análisis
   de texto.
